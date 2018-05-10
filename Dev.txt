@@ -1,0 +1,10 @@
+Beni|O acil|L-HOSP servise|L-HOSP götür|O 
+Beni|O iğne|O-VACC olabileceğim|O-VACC bir|O yere|O götür|O 
+Beni|O ilaç|M-MEDI alabileceğim|M-MEDI bir|O yere|O götür|O 
+hastane|L-HOSP 
+ilaç|M-MEDI almak|M-MEDI istiyorum|O 
+iğne|O-VACC olmak|O-VACC istiyorum|O 
+ilaç|M-MEDI nereden|O alabilirim|O 
+ağrı|M-PAIN kesici|M-PAIN nereden|O alabilirim|O 
+nereden|O ilaç|M-MEDI alabilirim|O 
+nereden|O ağrı|M-PAIN kesici|M-PAIN alabilirim|O 

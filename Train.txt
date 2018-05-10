@@ -1,0 +1,23 @@
+Beni|O hastaneye|L-HOSP götür|O 
+Eczaneye|L-PHAR nasıl|O gidebilirim|O 
+Hastaneye|L-HOSP gitmek|O istiyorum|O 
+Beni|O acile|L-HOSP götür|O 
+Beni|O acil|L-HOSP servise|L-HOSP götür|O 
+Beni|O iğne|O-VACC olabileceğim|O-VACC bir|O yere|O götür|O 
+Beni|O ilaç|M-MEDI alabileceğim|M-MEDI bir|O yere|O götür|O 
+hastane|L-HOSP 
+ilaç|M-MEDI almak|M-MEDI istiyorum|O 
+iğne|O-VACC olmak|O-VACC istiyorum|O 
+ilaç|M-MEDI nereden|O alabilirim|O 
+ağrı|M-PAIN kesici|M-PAIN nereden|O alabilirim|O 
+nereden|O ilaç|M-MEDI alabilirim|O 
+nereden|O ağrı|M-PAIN kesici|M-PAIN alabilirim|O 
+ilaç|M-MEDI alacağım|O 
+ateş|M-AFEB düşürücü|M-AFEB alacağım|O 
+ağrı|M-PAIN kesici|M-PAIN alacağım|O 
+iğne|O-VACC istiyorum|O 
+hastayım|O-CHEC 
+eczane|L-PHAR 
+hastane|L-HOSP nerede|O acaba|O 
+hastane|L-HOSP nerededir|O 
+burada|O eczane|L-PHAR var|O mı|O acaba|O 
